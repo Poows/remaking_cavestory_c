@@ -1,0 +1,8 @@
+﻿  graphics.cpp
+  sprite.cpp
+D:\CaveStory\CaveStory\CaveStory\sprite.cpp(24,62): warning C4838:  преобразование из "float" в "int" требует сужающего преобразования
+D:\CaveStory\CaveStory\CaveStory\sprite.cpp(24,62): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+D:\CaveStory\CaveStory\CaveStory\sprite.cpp(24,107): warning C4838:  преобразование из "float" в "int" требует сужающего преобразования
+  Создание кода...
+D:\CaveStory\CaveStory\CaveStory\sprite.cpp(24,107): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+  CaveStory.vcxproj -> D:\CaveStory\CaveStory\x64\Debug\CaveStory.exe
